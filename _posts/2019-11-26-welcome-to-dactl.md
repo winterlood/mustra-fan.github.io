@@ -22,13 +22,13 @@ Mustra
 Skill Set & Reference
 ---
 
-![](./../assets/img/melon.JPG){: width="100" height="100"}
+![](./../assets/img/melon.JPG){: width="100" height="100" .alignleft}
 > Melon에서 최신 곡의 곡명, 아티스트 의 FAN 수, 좋아요 수를 크롤링 해서 사용하였습니다.
 
-![](./../assets/img/google.png){: width="100" height="100"}
+![](./../assets/img/google.png){: width="100" height="100" .alignleft}
 > Google 의 검색 결과수를 본 프로그램에 사용하였습니다.
 
-![](./../assets/img/python.jpg){: width="100" height="100"}
+![](./../assets/img/python.jpg){: width="100" height="100" .alignleft}
 > Web Crawl Library를 사용하기 위해 Python을 사용하였습니다.
 
 What is Mustra
