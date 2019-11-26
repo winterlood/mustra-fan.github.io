@@ -10,24 +10,41 @@ overlay: red
 published: true
 
 ---
-안녕하세요 !
 {: .lead}
 <!–-break-–>
-This launches a web server and auto-regenerates your site when a file is updated.  
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Mustra
+===
 
-~~~ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-~~~
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+What is Mustra
+---
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Mustra는 국내 음원 차트제공 플랫폼인 Melon의 좋아요 순위를 예측하기 위한 프로그램입니다.
+
+현재 Release 된 버전은 
+
+Mustra Ver0.1 이며, 현재 Microsoft Azure의 Hyper-V 위에서 동작하고 있는 server에 연결되어 있습니다.
+
+How to Running this?
+---
+
+Weka 3-8 Machine Learning Program을 사용하여, 
+
+해당 곡의 정보에 대해 다음과 같은 속성들을 기준으로 순위를 예측하기 위한 Knowledge Base를 생성 합니다.
+
+DataSet
+---
+
+본 프로그램의 Knowledge Base를 구성한 Dataset은 
+
+2019년도 11월 Melon 최신 음악 리스트에 대해, 
+
+아래에 소개해 드릴 속성에 대한 정보를 Web에서 Crawl, Scrapping 하여 구성되었습니다.
+
+Attributes
+---
+
+본 DataSet의 Attribute는 다음과 같습니다.
+
+
