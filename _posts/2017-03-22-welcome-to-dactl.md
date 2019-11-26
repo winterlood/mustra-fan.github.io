@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "Welcome to Mustra!!"
 tags:
   - dactl
   - jekyll
