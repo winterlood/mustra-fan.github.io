@@ -2,8 +2,9 @@
 layout: post
 title:  "Welcome to Mustra!!"
 tags:
-  - dactl
-  - jekyll
+  - mustra
+  - music
+  - predict
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true
