@@ -16,6 +16,8 @@ published: true
 Mustra
 ===
 
+![](./../assets/img/programView.JPG)
+
 
 What is Mustra
 ---
