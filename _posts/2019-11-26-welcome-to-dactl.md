@@ -16,7 +16,7 @@ published: true
 Mustra
 ===
 
-![](./../assets/img/programView.JPG)
+![](./../assets/img/Mustra.png)
 
 
 Skill Set & Reference
